@@ -114,8 +114,6 @@ Database contain the following four models:
 
 ### Walkthrough Video: 37%
 
--
-
 - [View video to see MySQL walk through via Screencastify](https://watch.screencastify.com/v/4YWfCyXDf0vqb60v5TsB)
 
 - [View video to walk through of the API routes.](https://watch.screencastify.com/v/b1DfAWBg59c5Exa1jvuh)
